@@ -1,0 +1,101 @@
+*,
+body {
+    margin: 20px;
+    background-color: rgb(187, 46, 74);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.heading {
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.wrap {
+    position: relative;
+    margin: 80px;
+    max-width: 730px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 15px 40px 50px;
+    border-radius: 10px;
+}
+
+.txtArea {
+    position: relative;
+    margin-bottom: 10px;
+    padding: 15px;
+    align-items: center;
+    margin-left: auto;
+    margin-top: 20px;
+    background-color: rgb(255, 195, 173);
+    outline: none !important;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+}
+
+textarea {
+    resize: none;
+}
+
+.result {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(75, 0, 0);
+    background-color: aliceblue;
+    position: relative;
+    line-height: 20px;
+    margin-left: 250px;
+    position: relative;
+    text-align: right;
+}
+
+.submit {
+    position: absolute;
+    margin-top: -50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: coral;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none !important;
+    border: none;
+    color: rgb(112, 41, 41);
+}
+
+.footer {
+    text-align: center;
+    color: rgb(255, 172, 190);
+}
+
+a {
+    color: rgb(255, 185, 179);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 248, 247);
+    text-decoration: none;
+}
+
+
+/*Smooth Scroll Bar Styles*/
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(128, 3, 3, 0.3);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(143, 5, 5, 0.8);
+}
