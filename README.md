@@ -9,7 +9,7 @@ This application is suits to count characters, words and sentences in a paragrap
 ## What is this?<a name="What"/>
 This is a simple web app for count characters, words and sentences in a paragraph.
 
-<img src="img/a.JPG">
+<img src="img/a.JPG" width="900">
 
 ## What are the technologies used?<a name="technologies"/>
 - HTML
@@ -19,4 +19,4 @@ This is a simple web app for count characters, words and sentences in a paragrap
 ## How to use this?<a name="How"/>
 Just paste your paragraph in to text area and click the **Get Count** button. Then you can get number of characters, words and sentences in your paragraph.
 
-<img src="img/b.JPG">
+<img src="img/b.JPG" width="900">
