@@ -1,6 +1,8 @@
 # Character-Counter-with-JS
 This application is suits to count characters, words and sentences in a paragraph.
 
+💻😍 Online Demo : https://character-counter-with-js.netlify.app/
+
 ### Table of Content
 -01 [What is this?](#What)</br>
 -02 [What are the technologies used?](#technologies)</br>
